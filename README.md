@@ -23,7 +23,7 @@ Pliki dane1.txt, wynik1.txt, wynik2.txt są przykładami do powyższego zadania.
 # Zadanie 2
 Zaimplementuj drukarkę, która będzie przyjmowała plik dane.txt i zapisze wynik do pliku wynik.txt.
 <br>
-W pliku dane.txt każda linijka będzie jeden z trzech postaci:
+W pliku dane.txt każda linijka będzie jedną z trzech postaci:
 <br>
 1){liczba}
 <br>
