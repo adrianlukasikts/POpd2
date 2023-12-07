@@ -4,7 +4,7 @@ Zaimplementuj kalkulator, który będzie przyjmował plik dane.txt i zapisze wyn
 W pliku dane.txt każda linijka będzie następującej postaci:
 <br>
 <br>
-{liczba1}{działanie}{liczba2}
+{liczba1} {działanie} {liczba2}
 <br>
 <br>
 Liczba1 i liczba2 są liczbami całkowitymi.
